@@ -1,0 +1,6 @@
+﻿token= NjA4MzkxNDU3NTA5OTk4NjI0.XUning.g901N-5TMSQiC2WXwZJn1eW1RIA
+owner= 457203430193102862
+prefix= !
+game= Prefix: !Help : Developer Requesting
+stayinchannel=true
+songinstatus=false 
